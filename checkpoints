@@ -1,0 +1,15 @@
+{"cells":[{"cell type":"markdown",
+"metadata":{}:"source":
+["_____ /n,"#capitulo1_
+manipulação de dados:basico/n","___"]},
+{"cell_type":"code",
+"execution_count":null,
+"metadata":{collapsed":true},
+"outpusts":[],
+"souece":["import numpy as np/n",
+"import pandas as pd/n",
+"/n","from pandas import dataframe"]},
+{"cell_type":"code","execution_count":
+2,"metadata":{},
+"outputs":{},
+"outputs":[{"data":{text/html":["/n","
